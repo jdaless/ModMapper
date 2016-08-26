@@ -67,7 +67,7 @@ minDisplay = 2
 
 reddit = praw.Reddit(user_agent='ModMapper')
 
-print("Welcome to /u/steelbolt's ModMapper!")
+print("Welcome to ModMapper!")
 print("'quit' to exit")
 print("'map [subreddit]' to map a subreddit")
 print("'info [subreddit]' after mapping to see which mods overlap")
